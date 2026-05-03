@@ -37,15 +37,7 @@ A fully functional, pixel-perfect IoT-based predictive boiler health monitoring 
 - **Keyboard Shortcuts**: ESC to close modals, Ctrl+K for theme toggle
 - **Responsive Design**: Works on desktop, tablet, and mobile devices
 
-## 🎨 Technology Stack
 
-- **HTML5**: Semantic markup
-- **CSS3**: Modern styling with CSS variables
-- **Vanilla JavaScript**: No frameworks, pure JS
-- **Chart.js**: Interactive line charts
-- **SVG**: Circular progress rings and gauge meters
-- **Google Fonts**: Inter font family
-- **Font Awesome**: Icon library
 
 ## 📊 Dashboard Sections
 
@@ -165,18 +157,9 @@ Edit CSS variables in `styles.css`:
 }
 ```
 
-### Add New Gauges
-Add gauge HTML in `index.html` and update the data in `script.js`:
-```javascript
-boilerData.newParameter = initialValue;
-```
 
-## 🎯 Browser Support
 
-- Chrome 90+
-- Firefox 88+
-- Safari 14+
-- Edge 90+
+
 
 ## 📝 Notes
 
@@ -204,10 +187,4 @@ boilerData.newParameter = initialValue;
 - Advanced analytics dashboard
 - Mobile app version
 
-## 📄 License
 
-This is a demonstration project. Feel free to use and modify as needed.
-
----
-
-**Built with ❤️ for Industrial IoT Monitoring**
